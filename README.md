@@ -89,7 +89,7 @@ qa-portfolio-mercadolivre/
 
 ## 📋 Como Navegar
 
-1. Comece pelos [Requisitos](./documentos/requisitos.md) para entender o escopo
-2. Veja os [Casos de Teste](./documentos/casos-de-teste.md) para entender o que foi testado
-3. Confira o [Relatório de Bugs](./documentos/relatorio-de-bugs.md) com evidências
+1. Comece pelos [Requisitos](./docs/requisitos.md) para entender o escopo
+2. Veja os [Casos de Teste](./docs/casos-de-teste.md) para entender o que foi testado
+3. Confira o [Relatório de Bugs](./docs/relatorio-de-bugs.md) com evidências
 4. As evidências visuais estão na pasta `/evidencias`
