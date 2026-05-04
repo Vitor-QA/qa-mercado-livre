@@ -94,7 +94,7 @@ E nenhum produto fora desta faixa deve aparecer na listagem
 | 5 | Confirmar filtro | — | Resultados filtrados |
 
 **Resultado Obtido:** Produtos fora da faixa continuaram aparecendo na listagem.  
-**Evidências:** `/evidencias/CT-03/`
+**Evidências:** [📂 Ver evidências](./Evidências/CT-03/)
 
 ---
 
@@ -121,7 +121,7 @@ E o produto mais barato deve aparecer primeiro
 | 3 | Selecionar "Menor preço" | — | Lista reordenada |
 
 **Resultado Obtido:** Produtos ordenados corretamente do menor para o maior preço.  
-**Evidências:** `/evidencias/CT-04/`
+**Evidências:** [📂 Ver evidências](./Evidências/CT-04/)
 
 ---
 
@@ -149,7 +149,7 @@ E a descrição e avaliações de compradores
 | 3 | Verificar elementos | — | Nome, preço, fotos, descrição e avaliações presentes |
 
 **Resultado Obtido:** Todos os elementos obrigatórios exibidos corretamente.  
-**Evidências:** `/evidencias/CT-05/`
+**Evidências:** [📂 Ver evidências](./Evidências/CT-05/)
 
 ---
 
@@ -173,7 +173,7 @@ Então a imagem principal deve ser atualizada com a imagem selecionada
 | 2 | Clicar em miniatura diferente | — | Imagem principal atualiza |
 
 **Resultado Obtido:** Imagem principal atualizada corretamente ao clicar nas miniaturas.  
-**Evidências:** `/evidencias/CT-06/`
+**Evidências:** [📂 Ver evidências](./Evidências/CT-06/)
 
 ---
 
@@ -199,7 +199,7 @@ E uma confirmação visual deve ser exibida
 | 2 | Clicar em "Adicionar ao carrinho" | — | Item adicionado, contador atualiza |
 
 **Resultado Obtido:** Em alguns produtos o botão não respondeu. Item não adicionado.  
-**Evidências:** `/evidencias/CT-07/`
+**Evidências:** [📂 Ver evidências](./Evidências/CT-07/)
 
 ---
 
@@ -225,7 +225,7 @@ E o valor total do carrinho deve ser recalculado automaticamente
 | 3 | Verificar total | — | Total recalculado (R$535 → R$1.070) |
 
 **Resultado Obtido:** Quantidade e valor atualizados corretamente.  
-**Evidências:** `/evidencias/CT-08/`
+**Evidências:** [📂 Ver evidências](./Evidências/CT-08/)
 
 ---
 
@@ -251,7 +251,7 @@ E o total deve ser recalculado sem o item removido
 | 3 | Verificar carrinho | — | Total atualizado |
 
 **Resultado Obtido:** Item removido e total recalculado corretamente.  
-**Evidências:** `/evidencias/CT-09/`
+**Evidências:** [📂 Ver evidências](./Evidências/CT-09/)
 
 ---
 
@@ -279,7 +279,7 @@ E o sistema não deve avançar para a próxima etapa
 | 3 | Clicar em "Continuar" | — | Mensagem de erro exibida |
 
 **Resultado Obtido:** Mensagem "Revise o dado digitado." exibida corretamente abaixo do campo.  
-**Evidências:** `/evidencias/CT-10/`
+**Evidências:** [📂 Ver evidências](./Evidências/CT-10/)
 
 ---
 
