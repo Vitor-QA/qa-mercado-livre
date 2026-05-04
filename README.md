@@ -6,8 +6,8 @@ Projeto de testes manuais aplicados ao site do Mercado Livre, simulando atividad
 
 Analista de QA em transição para a área de tecnologia, com experiência prática em execução de testes, documentação de bugs e análise de requisitos funcionais.
 
-- 🔗 LinkedIn: [adicione seu perfil]
-- 📧 E-mail: [adicione seu e-mail]
+- 🔗 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-a94743206/
+- 📧 E-mail: j.vitorsantos.f@gmail.com
 
 ---
 
@@ -69,7 +69,7 @@ qa-portfolio-mercadolivre/
 
 ## 🐞 Bugs Encontrados
 
-| ID | Título | Severidade | Prioridade | Status |
+| I.D | Título | Severidade | Prioridade | Status |
 |---|---|---|---|---|
 | BUG-001 | Sugestões de busca não aparecem ao digitar | Média | Média | Aberto |
 | BUG-002 | Filtro de preço não funciona corretamente | Alta | Alta | Aberto |
