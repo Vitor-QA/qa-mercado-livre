@@ -67,8 +67,7 @@ E as sugestões devem ser exibidas em tempo real durante a digitação
 | 2 | Digitar termo | "notebook" | Sugestões aparecem dinamicamente |
 
 **Resultado Obtido:** Sugestões exibidas corretamente em tempo real.  
-**Evidências:** ![Evidência Bug 001](../Evidências/bugs/BUG-001/nome-do-seu-print.png)
-
+**Evidências:** [📂 Ver evidências](./Evidências/CT-02/)
 ---
 
 ## CT-03 — Validar filtro por faixa de preço
