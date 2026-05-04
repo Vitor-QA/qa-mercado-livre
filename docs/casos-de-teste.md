@@ -41,7 +41,7 @@ E os produtos devem ser relevantes ao termo pesquisado
 | 4 | Clicar na lupa ou pressionar Enter | — | Página de resultados carrega |
 
 **Resultado Obtido:** Lista com mais de 8.000 produtos relacionados exibida corretamente.  
-**Evidências:** `/evidencias/CT-01/`
+**Evidências:** [📂 Ver evidências](./Evidências/CT-001/) 
 
 ---
 
