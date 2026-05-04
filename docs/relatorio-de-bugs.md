@@ -45,7 +45,7 @@ Nenhuma sugestão foi exibida. O campo permaneceu sem autocomplete durante a dig
 Usuário perde eficiência na busca, tendo que digitar o termo completo sem auxílio de sugestões. Prejudica a experiência de navegação e pode reduzir conversão.
 
 ### Evidências
-📁 [📂 Ver pasta de evidências](../Evidências/bugs/BUG-001/)
+📁 [📂 Ver evidências](./Evidências/BUG-001/)
 
 ---
 
