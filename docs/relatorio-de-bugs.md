@@ -45,7 +45,7 @@ Nenhuma sugestão foi exibida. O campo permaneceu sem autocomplete durante a dig
 Usuário perde eficiência na busca, tendo que digitar o termo completo sem auxílio de sugestões. Prejudica a experiência de navegação e pode reduzir conversão.
 
 ### Evidências
-📁 [📂 Ver evidências](./Evidências/BUG-001/)
+[📂 Ver evidências](./Evidências/BUG-001/)
 
 ---
 
@@ -79,7 +79,7 @@ Produtos com preços acima de R$2.000 continuaram aparecendo na listagem mesmo a
 **Alto.** O filtro de preço é uma das funcionalidades mais utilizadas em e-commerce. Falha direta na jornada de compra, podendo causar frustração e abandono da plataforma.
 
 ### Evidências
-📁 `/evidencias/bugs/BUG-002/`
+[📂 Ver evidências](./Evidências/BUG-002/)
 
 > **Nota técnica:** Possível causa — query de filtro não está sendo aplicada corretamente na requisição à API. Recomenda-se validar o parâmetro `PriceRange` na URL gerada após aplicação do filtro.
 
@@ -112,7 +112,7 @@ Nada acontece ao clicar no botão. O carrinho permanece vazio e nenhuma resposta
 **Crítico para o negócio.** Impede diretamente a conversão de vendas. Usuário não consegue concluir a jornada de compra.
 
 ### Evidências
-📁 `/evidencias/bugs/BUG-003/`
+[📂 Ver evidências](./Evidências/BUG-003/)
 
 > **Nota técnica:** Recomenda-se verificar logs do console do navegador (F12) no momento do clique para identificar possíveis erros de JavaScript ou falha na requisição POST ao endpoint de carrinho.
 
