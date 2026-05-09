@@ -63,7 +63,7 @@ qa-portfolio-mercadolivre/
 
 | Total de Casos de Teste | ✅ Passou | ❌ Falhou | 🐞 Bugs Encontrados |
 |---|---|---|---|
-| 10 | 7 | 3 | 3 |
+| 10 | 8 | 2 | 3 |
 
 ---
 
